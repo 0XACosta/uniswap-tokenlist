@@ -1,0 +1,13 @@
+{
+    "chainId": "137",
+    "setName": "AyDx DeFi Index",
+    "setSymbol": "AYDX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SET-Logo.JPG",
+    "setDescription": "Discretionary DeFi Index SET",
+    "website": "",
+    "managerName": "AyDx advisors",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/Manager-logo.JPG",
+    "managerDescription": ""
+  }
